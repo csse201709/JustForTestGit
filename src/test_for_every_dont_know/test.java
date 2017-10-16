@@ -21,7 +21,7 @@ public class test {
 		 String regex="[^\\p{Alpha}]+";
 		 String localAddress="test2.txt";
 		 String wordstmp;
-		 String[] strArrays = null;
+		 String[] strArrays = null;//git≤‚ ‘”√◊¢ Õ3
 		try
         {
             FileInputStream fis = new FileInputStream(localAddress);

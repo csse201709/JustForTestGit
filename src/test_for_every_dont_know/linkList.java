@@ -4,7 +4,7 @@ import java.io.File;
 
 public class linkList {//git²âÊÔÓÃ×¢ÊÍ1
 	protected Node[] nodelst;
-	protected Node treeroot;
+	protected Node treeroot;//git²âÊÔÓÃ×¢ÊÍ1
 	protected int count ;
 	public linkList() {
 		nodelst = new Node[2*Node.nodeLength];
