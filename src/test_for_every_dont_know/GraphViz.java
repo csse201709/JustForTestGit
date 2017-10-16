@@ -1,5 +1,9 @@
 package test_for_every_dont_know;
-
+<<<<<<< HEAD
+//git测试用注释2-5
+=======
+//git测试用注释2-4
+>>>>>>> C4
 
 //GraphViz.java - a simple API to call dot from Java programs
 /*$Id$*/

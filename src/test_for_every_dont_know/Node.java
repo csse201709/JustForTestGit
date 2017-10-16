@@ -1,5 +1,13 @@
 package test_for_every_dont_know;
+<<<<<<< HEAD
 //git测试用注释2-7
+=======
+<<<<<<< HEAD
+//git测试用注释2-5
+=======
+//git测试用注释2-4
+>>>>>>> C4
+>>>>>>> B1
 public class Node {
 	final static int nodeLength=50; //最大节点数量
 	protected boolean visitflag;//访问标志
