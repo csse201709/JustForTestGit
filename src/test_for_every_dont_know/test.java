@@ -1,5 +1,6 @@
 package test_for_every_dont_know;
 <<<<<<< HEAD
+<<<<<<< HEAD
 //git²âÊÔÓÃ×¢ÊÍ2-7
 =======
 <<<<<<< HEAD
@@ -8,6 +9,9 @@ package test_for_every_dont_know;
 //git²âÊÔÓÃ×¢ÊÍ2-4
 >>>>>>> C4
 >>>>>>> B1
+=======
+
+>>>>>>> partner/master
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -24,12 +28,20 @@ public class test {
 		}
 		return lnklst;
 	}
+<<<<<<< HEAD
 //git²âÊÔÓÃ×¢ÊÍ3
+=======
+
+>>>>>>> partner/master
 	public static void main(String[] args) {
 		 String regex="[^\\p{Alpha}]+";
 		 String localAddress="test2.txt";
 		 String wordstmp;
+<<<<<<< HEAD
 		 String[] strArrays = null;//git²âÊÔÓÃ×¢ÊÍ3
+=======
+		 String[] strArrays = null;
+>>>>>>> partner/master
 		try
         {
             FileInputStream fis = new FileInputStream(localAddress);
@@ -82,10 +94,20 @@ public class test {
 			System.out.print("µÚ"+(int)(i+1)+"´Î±éÀú	");
 			lnklst.randomvisit();
 		}
+<<<<<<< HEAD
+=======
+		//Proba p = new Proba();
+		//p.start();
+		//p.start2();
+		 
+>>>>>>> partner/master
 		
 
 		return;
 	}
 }
+<<<<<<< HEAD
 //lnklst.shortestroad("to","and");		
 //lnklst.shortestroad("seek","civilizations");
+=======
+>>>>>>> partner/master

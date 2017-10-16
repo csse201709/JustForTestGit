@@ -1,9 +1,13 @@
 package test_for_every_dont_know;
 <<<<<<< HEAD
+<<<<<<< HEAD
 //git测试用注释2-5
 =======
 //git测试用注释2-4
 >>>>>>> C4
+=======
+
+>>>>>>> partner/master
 
 //GraphViz.java - a simple API to call dot from Java programs
 /*$Id$*/

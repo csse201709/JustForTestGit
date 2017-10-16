@@ -1,5 +1,6 @@
 package test_for_every_dont_know;
 <<<<<<< HEAD
+<<<<<<< HEAD
 //git²âÊÔÓÃ×¢ÊÍ2-7
 =======
 <<<<<<< HEAD
@@ -13,6 +14,14 @@ import java.io.File;
 public class linkList {//git²âÊÔÓÃ×¢ÊÍ1
 	protected Node[] nodelst;
 	protected Node treeroot;//git²âÊÔÓÃ×¢ÊÍ1
+=======
+
+import java.io.File;
+
+public class linkList {
+	protected Node[] nodelst;
+	protected Node treeroot;
+>>>>>>> partner/master
 	protected int count ;
 	public linkList() {
 		nodelst = new Node[2*Node.nodeLength];
@@ -223,7 +232,11 @@ public class linkList {//git²âÊÔÓÃ×¢ÊÍ1
 	    	}
 	    }
 	    gv.addln(gv.end_graph());
+<<<<<<< HEAD
 	    File out = new File("E:\\ProgramLanguageOfAll\\myeclipse\\workplace\\SE-test-1\\out." + type);    // Windows
+=======
+	    File out = new File("E:\\ProgramLanguageOfAll\\myeclipse\\workplace\\test_for_every_dont_know\\out." + type);    // Windows
+>>>>>>> partner/master
 	    gv.writeGraphToFile( gv.getGraph( gv.getDotSource(), type ), out );
 	}
 	public void searchBridgeWords(String str1,String str2)//¹¦ÄÜ3²éÑ¯ÇÅ½Ó´Ê
