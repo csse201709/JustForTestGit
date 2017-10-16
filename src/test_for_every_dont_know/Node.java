@@ -1,5 +1,5 @@
 package test_for_every_dont_know;
-
+//git测试用注释2-5
 public class Node {
 	final static int nodeLength=50; //最大节点数量
 	protected boolean visitflag;//访问标志
