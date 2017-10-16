@@ -1,5 +1,9 @@
 package test_for_every_dont_know;
+<<<<<<< HEAD
 //git²âÊÔÓÃ×¢ÊÍ2-5
+=======
+//git²âÊÔÓÃ×¢ÊÍ2-4
+>>>>>>> C4
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
