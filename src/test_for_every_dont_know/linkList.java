@@ -2,7 +2,7 @@ package test_for_every_dont_know;
 
 import java.io.File;
 
-public class linkList {
+public class linkList {//git²âÊÔÓÃ×¢ÊÍ1
 	protected Node[] nodelst;
 	protected Node treeroot;
 	protected int count ;

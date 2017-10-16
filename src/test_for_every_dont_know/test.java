@@ -16,7 +16,7 @@ public class test {
 		}
 		return lnklst;
 	}
-
+//git²âÊÔÓÃ×¢ÊÍ3
 	public static void main(String[] args) {
 		 String regex="[^\\p{Alpha}]+";
 		 String localAddress="test2.txt";

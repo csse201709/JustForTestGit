@@ -8,7 +8,7 @@ public class Node {
 	protected int weightnum[],number,visitcount,selfvisitcount;//weightnum来自父指针的次数,即权重对应weightparent//number 子指针的个数//visitcount节点被访问的个数//selfvisitcount自身被访问的次数记录，用于修改visitflag
 	public Node(String str)
 	{
-		this.data=str;
+		this.data=str;//git测试用注释2
 		number=0;
 		weightnum=new int[nodeLength];
 		weightparent=new String[nodeLength];
